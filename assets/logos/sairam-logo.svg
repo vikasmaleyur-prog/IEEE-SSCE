@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 84" width="320" height="84">
+  <rect width="320" height="84" fill="#ffffff" rx="4"/>
+  <circle cx="42" cy="42" r="32" fill="#002855" stroke="#D4AF37" stroke-width="2.5"/>
+  <circle cx="42" cy="42" r="26" fill="none" stroke="#FFFFFF" stroke-width="1.2" stroke-dasharray="3,2"/>
+  <!-- Star / Torch Emblem -->
+  <path d="M42 20 L46 32 L58 32 L48 40 L52 52 L42 44 L32 52 L36 40 L26 32 L38 32 Z" fill="#D4AF37"/>
+  <text x="86" y="32" font-family="'Montserrat', sans-serif" font-size="14" font-weight="800" fill="#002855" letter-spacing="0.5">SRI SAIRAM</text>
+  <text x="86" y="49" font-family="'Montserrat', sans-serif" font-size="12" font-weight="700" fill="#00629B">COLLEGE OF ENGINEERING</text>
+  <text x="86" y="65" font-family="'Open Sans', sans-serif" font-size="9.5" font-weight="600" fill="#64748B">BENGALURU · ESTD 1997 · STB60209825</text>
+</svg>

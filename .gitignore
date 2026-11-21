@@ -1,0 +1,13 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# Temporary scraper and build utilities
+*.pyc
+__pycache__/
+fetch_real_logos.py
+scrape_sairam_logos.py

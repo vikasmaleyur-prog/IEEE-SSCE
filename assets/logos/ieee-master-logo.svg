@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60" width="200" height="60">
+  <g fill="#00629B">
+    <!-- IEEE Diamond Kite Emblem with right hand rule arrows -->
+    <path d="M 28 8 L 48 30 L 28 52 L 8 30 Z" fill="none" stroke="#00629B" stroke-width="3.5" stroke-linejoin="round"/>
+    <!-- Vertical Conductor with Arrow Up -->
+    <line x1="28" y1="46" x2="28" y2="15" stroke="#00629B" stroke-width="2.5" stroke-linecap="round"/>
+    <polygon points="28,11 24,19 32,19" fill="#00629B"/>
+    <!-- Circular / Elliptical Magnetic Field Loop -->
+    <ellipse cx="28" cy="30" rx="13" ry="7" fill="none" stroke="#00629B" stroke-width="2"/>
+    <!-- Magnetic Field Direction Arrow (Right-hand rule) -->
+    <polygon points="41,29 37,25 39,33" fill="#00629B"/>
+    <!-- IEEE Wordmark -->
+    <text x="58" y="39" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="32" font-weight="900" letter-spacing="-1.2">IEEE</text>
+  </g>
+</svg>

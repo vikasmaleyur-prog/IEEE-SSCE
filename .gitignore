@@ -11,3 +11,7 @@
 __pycache__/
 fetch_real_logos.py
 scrape_sairam_logos.py
+
+# Vercel deployment metadata
+.vercel
+

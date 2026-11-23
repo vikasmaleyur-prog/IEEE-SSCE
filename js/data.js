@@ -285,6 +285,18 @@ const CHAPTERS = [
     localLogo: "assets/logos/TEM14.png",
     logo: "assets/logos/TEM14.png",
     description: "Advancing technology leadership, engineering management sciences, entrepreneurship, and organizational governance."
+  },
+  {
+    slNo: 21,
+    name: "IEEE Vehicular Technology Society",
+    ieeeCode: "VT06",
+    sbcCode: "SBC60209825",
+    category: "Society",
+    domain: "Connected & Autonomous Vehicles, V2X, Transportation Systems & Mobile Radio",
+    remoteLogo: "https://vtsociety.org/files/ieeevts/vts-logo-with-text.svg",
+    localLogo: "assets/logos/VT06.png",
+    logo: "assets/logos/VT06.png",
+    description: "Connected and autonomous vehicles, wireless vehicular communications (V2X), land transportation systems, and mobile radio technologies."
   }
 ];
 

@@ -4,12 +4,12 @@ Official web portal for the **IEEE Student Branch (STB60209825)** at **Sri Saira
 
 Featuring:
 - **Dual Institutional Branding**: Official Sri Sairam College of Engineering Bengaluru emblem & official IEEE Master Brand Logo.
-- **20 IEEE Technical Societies & Councils**: Complete chapters registry with verified official logos and chapter scopes (`SYS45`, `TEC802`, `PEL35`, `BT02`, `C16`, `CAS04`, `COM19`, `E25`, `ED15`, `EP21`, `IA34`, `IE13`, `IT12`, `MAG33`, `NANO42`, `PHO36`, `RA24`, `RL07`, `SP01`, `TEM14`).
+- **21 IEEE Technical Societies & Councils**: Complete chapters registry with verified official logos and chapter scopes (`SYS45`, `TEC802`, `PEL35`, `BT02`, `C16`, `CAS04`, `COM19`, `E25`, `ED15`, `EP21`, `IA34`, `IE13`, `IT12`, `MAG33`, `NANO42`, `PHO36`, `RA24`, `RL07`, `SP01`, `TEM14`, `VT06`).
 - **IEEE Women in Engineering (WIE) Affinity Group** (`SBA60209825`).
 - **Interactive Multi-Page Architecture**:
   - `index.html` – Full-bleed hero banner, About Us, dynamic statistics, chapter showcase grid, live filter controls, interactive modal dialogs.
   - `about.html` – Institutional leadership, SCOPE team, Office Bearers, and MAGIC members.
-  - `chapters.html` – Searchable and filterable registry across all 20 Societies/Councils + WIE.
+  - `chapters.html` – Searchable and filterable registry across all 21 Societies/Councils + WIE.
   - `contact.html` – Bengaluru campus directory, interactive location map, and contact channels.
 
 ---
@@ -48,7 +48,7 @@ http://localhost:8089/index.html
 ├── css/
 │   └── style.css             # Main stylesheet (IEEE Region 10 design system)
 ├── js/
-│   ├── data.js               # Centralized registry data for all 20 chapters & WIE
+│   ├── data.js               # Centralized registry data for all 21 chapters & WIE
 │   └── main.js               # Interactive filtering, modals, search & UI animations
 ├── assets/
 │   └── logos/                # Official IEEE society & institutional logos
